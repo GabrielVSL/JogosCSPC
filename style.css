@@ -1,0 +1,58 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+    color: #333;
+}
+
+header {
+    background-color: #007BFF;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+main {
+    padding: 20px;
+}
+
+.grades {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+    gap: 100px;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.grade {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.grade h2 {
+    margin-top: 0;
+    color: #007BFF;
+}
+
+.grade ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+.grade ul li {
+    margin: 10px 0;
+}
+
+.grade ul li a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+    transition: color 0.3s;
+}
+
+.grade ul li a:hover {
+    color: #007BFF;
+}
