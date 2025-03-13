@@ -30,12 +30,22 @@ main {
 }
 
 .grade {
+    display: block; /* Faz o link se comportar como um bloco */
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    text-align: center; /* Centraliza todo o conteúdo */
-    height:250px;
+    text-align: center;
+    text-decoration: none; /* Remove o sublinhado do link */
+    color: inherit; /* Mantém a cor do texto padrão */
+    transition: transform 0.3s, box-shadow 0.3s;
+    width: 200px;
+    gap: 10px;
+}
+
+.grade:hover {
+    transform: translateY(-5px); /* Efeito de levantar ao passar o mouse */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
 }
 
 .grade h2 {
