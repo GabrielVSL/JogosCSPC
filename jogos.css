@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #603939;
+    background-color: #5e2e2e;
     color: #fff;
     padding: 20px 0;
     text-align: center;
@@ -19,6 +19,11 @@ header {
 
 main {
     padding: 20px;
+}
+
+.logo img {
+    width: 100px;
+    margin-bottom: 20px; /* Adiciona um espaçamento abaixo da logo */
 }
 
 .grades {
@@ -30,7 +35,10 @@ main {
 }
 
 .grade {
-    display: block; /* Faz o link se comportar como um bloco */
+    display: flex; /* Usar flexbox para organizar os elementos */
+    flex-direction: column; /* Empilhar os elementos verticalmente */
+    justify-content: center; /* Alinhar o conteúdo verticalmente no centro */
+    align-items: center; /* Alinhar o conteúdo horizontalmente no centro */
     background-color: #fff;
     padding: 20px;
     border-radius: 10px;
@@ -40,7 +48,8 @@ main {
     color: inherit; /* Mantém a cor do texto padrão */
     transition: transform 0.3s, box-shadow 0.3s;
     width: 200px;
-    gap: 10px;
+    height: 300px;
+    gap: 10px; /* Distância entre os elementos dentro da grade */
 }
 
 .grade:hover {
@@ -50,13 +59,14 @@ main {
 
 .grade h2 {
     margin-top: 0;
-    color: #603939;
+    color: #5e2e2e;
     font-size: 1.5rem;
 }
 
 .grade img {
     width: 100px; /* Tamanho da imagem da manete */
     margin: 15px 0; /* Espaçamento acima e abaixo da imagem */
+    height: auto;
 }
 
 .grade ul {
@@ -76,5 +86,5 @@ main {
 }
 
 .grade ul li a:hover {
-    color: #603939;
+    color: #5e2e2e;
 }
