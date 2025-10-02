@@ -1,0 +1,73 @@
+{
+  "1º e 2º Períodos": [
+    { "nome": "Labirinto Polar", "url": "https://www.escolagames.com.br/jogos/labirintoPolar/", "iconClass": "fi-ss-grid-alt" },
+    { "nome": "Palavras e Desenhos", "url": "https://www.escolagames.com.br/jogos/desenhosPalavras/", "iconClass": "fi-ss-pencil-ruler" },
+    { "nome": "Conte as Imagens", "url": "https://br.ixl.com/matematica/pre-escola/conte-as-imagens-grupos-de-cinco-unidades", "iconClass": "fi-ss-abacus" },
+    { "nome": "Classifique por Forma", "url": "https://br.ixl.com/matematica/pre-escola/classifique-e-organize-por-forma", "iconClass": "fi-ss-star" },
+    { "nome": "Junta Blocos", "url": "https://www.escolagames.com.br/diversao/juntaBlocos/", "iconClass": "fi-ss-puzzle-piece" },
+    { "nome": "Conjuntos nas Nuvens", "url": "https://www.escolagames.com.br/jogos/conjuntosNasNuvens/", "iconClass": "fi-ss-cloud" },
+    { "nome": "Dino Divertido", "url": "https://www.escolagames.com.br/jogos/dinoDivertido/", "iconClass": "fi-ss-ghost" },
+    { "nome": "Jogo dos 7 Erros", "url": "https://www.escolagames.com.br/jogos/jogoDos7Erros/", "iconClass": "fi-ss-search-alt" },
+    { "nome": "Jogo da Memória (Números)", "url": "https://wordwall.net/pt/resource/14182821/jogo-da-mem%c3%b3ria-dos-n%c3%bameros-de-1-a-9/jogo-da-mem%c3%b3ria-n%c3%bameros-e", "iconClass": "fi-ss-memo-pad" },
+    { "nome": "Mandala Colorida", "url": "https://www.jogos360.com.br/mandala_coloring_book.html", "iconClass": "fi-ss-palette" },
+    { "nome": "Math Games For Kids", "url": "https://play.google.com/store/apps/details?id=com.rvappstudios.math.kids.counting&hl=pt_BR&pli=1", "iconClass": "fi-ss-calculator" },
+    { "nome": "A Abelha no Labirinto", "url": "https://www.jogosgratisparacriancas.com/labirintos/7_jogos_criancas_abelha.php", "iconClass": "fi-ss-bee" },
+    { "nome": "4 Cores", "url": "https://www.escolagames.com.br/diversao/4Cores/", "iconClass": "fi-ss-bowling-ball" },
+    { "nome": "Forma Palavras", "url": "https://www.escolagames.com.br/jogos/formaPalavras/", "iconClass": "fi-ss-text-check" },
+    { "nome": "Completando os Números", "url": "https://www.escolagames.com.br/jogos/completandoNumeros/", "iconClass": "fi-ss-list-check" },
+    { "nome": "Aprendendo o Alfabeto", "url": "https://www.escolagames.com.br/jogos/aprendendoAlfabeto/", "iconClass": "fi-ss-notebook-alt" },
+    { "nome": "Estoura Balão", "url": "https://www.escolagames.com.br/jogos/estouraBalao/", "iconClass": "fi-ss-balloon" },
+    { "nome": "Voo Educativo", "url": "https://www.escolagames.com.br/jogos/vooEducativo/", "iconClass": "fi-ss-plane" },
+    { "nome": "Cola Sílabas", "url": "https://www.escolagames.com.br/jogos/colaSilabas/", "iconClass": "fi-ss-sticker" },
+    { "nome": "Quadro de Frutas", "url": "https://www.escolagames.com.br/jogos/quadroDeFrutas/", "iconClass": "fi-ss-apple-whole" },
+    { "nome": "Aventura Geométrica", "url": "https://www.escolagames.com.br/jogos/aventuraGeometrica/", "iconClass": "fi-ss-pyramid" },
+    { "nome": "Bolha Mágica", "url": "https://www.escolagames.com.br/diversao/bolhaMagica/", "iconClass": "fi-ss-circle" },
+    { "nome": "Jogo da Memória (Animais)", "url": "https://wordwall.net/resource/2395416/memory-game-farm-animals", "iconClass": "fi-ss-cow" },
+    { "nome": "Jogo Turma da Mônica", "url": "https://wordwall.net/pt/resource/35433425/jogo-turma-da-monica", "iconClass": "fi-ss-users" },
+    { "nome": "Jogo da Velha Online", "url": "https://www.ufreegames.com/play/tic-tac-toe-online.html", "iconClass": "fi-ss-grid" }
+  ],
+  "Maternal III": [
+    { "nome": "TARSILA DO AMARAL", "url": "https://wordwall.net/pt/resource/21117441/tarsila-do-amaral", "iconClass": "fi-ss-palette" },
+    { "nome": "Roleta dos Nomes", "url": "https://wordwall.net/pt/resource/16806527/roleta-dos-nomes", "iconClass": "fi-ss-bowling-ball" },
+    { "nome": "Matific", "url": "https://www.matific.com/bra/pt-br/home/maths/episode/draw-the-line/?grade=grade-3", "iconClass": "fi-ss-calculator" },
+    { "nome": "MEIO AMBIENTE", "url": "https://wordwall.net/resource/57989083/meio-ambiente", "iconClass": "fi-ss-leaf" },
+    { "nome": "QUIZ DAS EMOÇÕES", "url": "https://wordwall.net/pt/resource/3928744/emo%c3%a7%c3%b5es/quiz-das-emo%c3%a7%c3%b5es-divertidamente", "iconClass": "fi-ss-grin-alt" },
+    { "nome": "Atividade Maternal III", "url": "https://wordwall.net/pt/resource/4449524/atividade-maternal-iii", "iconClass": "fi-ss-star" }
+  ],
+  "1º Ano": [
+    { "nome": "Som L Inicial", "url": "https://wordwall.net/pt/resource/4794404/som-l-inicial-combinando%20%E2%80%8B", "iconClass": "fi-ss-book-alt" },
+    { "nome": "Fonema /L/ Inicial", "url": "https://wordwall.net/pt/resource/10770083/fonema-l-inicial", "iconClass": "fi-ss-e-learning" },
+    { "nome": "Alimentação Saudável", "url": "https://www.escolagames.com.br/jogos/alimentacaoSaudavel/", "iconClass": "fi-ss-apple-whole" },
+    { "nome": "Jogo da Memória (Frutas)", "url": "https://wordwall.net/pt/resource/20224594/jogo-da-mem%C3%B3ria-das-frutas-educa%C3%A7%C3%A3o-infantil", "iconClass": "fi-ss-memo-pad" },
+    { "nome": "Jogo de Rima", "url": "https://wordwall.net/pt/resource/24043242/jogo-de-rima-educa%C3%A7%C3%A3o-infantil", "iconClass": "fi-ss-text" },
+    { "nome": "Sequência Animal", "url": "https://www.escolagames.com.br/jogos/sequenciaAnimal/", "iconClass": "fi-ss-paw" },
+    { "nome": "BA-BE-BI-BO-BU", "url": "https://www.escolagames.com.br/jogos/BaBeBi/", "iconClass": "fi-ss-comment-alt-dots" },
+    { "nome": "Fábrica de Palavras", "url": "https://www.escolagames.com.br/jogos/fabrica-de-palavras", "iconClass": "fi-ss-settings" },
+    { "nome": "Laboratório das Sílabas", "url": "https://www.escolagames.com.br/jogos/laboratorio-das-silabas", "iconClass": "fi-ss-test-tube" },
+    { "nome": "Jogo dos Números Ordinais", "url": "https://wordwall.net/pt/resource/16201183/jogo-dos-n%C3%BAmeros-ordinais", "iconClass": "fi-ss-list-dropdown" },
+    { "nome": "JOGO - MAIS E MENOS", "url": "https://wordwall.net/pt/resource/20062599/jogo-mais-e-menos", "iconClass": "fi-ss-plus-minus" },
+    { "nome": "Maior e Menor, Leve e Pesado", "url": "https://wordwall.net/pt/resource/18154100/maior-e-menor-leve-e-pesado", "iconClass": "fi-ss-scale" },
+    { "nome": "Unidade e Dezena", "url": "https://www.escolagames.com.br/jogos/unidadeDezena/", "iconClass": "fi-ss-calculator" },
+    { "nome": "Encontros Vocálicos", "url": "https://wordwall.net/pt/resource/2653984/encontros-voc%C3%A1licos", "iconClass": "fi-ss-users-alt" },
+    { "nome": "QUIZ FORMAS GEOMÉTRICAS", "url": "https://wordwall.net/pt/resource/5954297", "iconClass": "fi-ss-interrogation" }
+  ],
+  "2º Ano": [
+    { "nome": "Palavra Cruzada (Animais)", "url": "https://wordwall.net/pt/resource/16533460/atividade-de-animais-libras/palavra-cruzada-animais", "iconClass": "fi-ss-grid" },
+    { "nome": "Palavras Cruzadas (M/N/S/SS)", "url": "https://wordwall.net/pt/resource/24663805/cognitive-skills/palavras-cruzadas-com-m-n-s-ss-r-rr", "iconClass": "fi-ss-grid-alt" },
+    { "nome": "Escola Games", "url": "https://www.escolagames.com.br/", "iconClass": "fi-ss-gamepad" },
+    { "nome": "Coquinhos", "url": "https://www.coquinhos.com/", "iconClass": "fi-ss-joystick" },
+    { "nome": "Ludo Educativo", "url": "https://www.ludoeducativo.com.br/pt/", "iconClass": "fi-ss-dice-d6" },
+    { "nome": "Poki Educativos", "url": "https://poki.com.br/educativos", "iconClass": "fi-ss-bowling" }
+  ],
+  "4º Ano": [
+    { "nome": "Cadeia Alimentar", "url": "https://wordwall.net/pt-br/community/cadeia-alimentar-4-ano", "iconClass": "fi-ss-spider" },
+    { "nome": "Algarismos Romanos", "url": "https://www.escolagames.com.br/jogos/algarismos-romanos", "iconClass": "fi-ss-building" },
+    { "nome": "Jogos de Colorir", "url": "https://www.jogosgratisparacriancas.com/colorir/index.php", "iconClass": "fi-ss-palette" },
+    { "nome": "Formas Geométricas", "url": "https://www.escolagames.com.br/jogos/formas-geometricas", "iconClass": "fi-ss-square" },
+    { "nome": "Letrinhas", "url": "https://www.escolagames.com.br/jogos/letrinhas", "iconClass": "fi-ss-typewriter" },
+    { "nome": "Unicórnio Mágico", "url": "https://www.escolagames.com.br/jogos/unicornio-magico", "iconClass": "fi-ss-unicorn" },
+    { "nome": "Navio Pirata", "url": "https://www.escolagames.com.br/diversao/navio-pirata", "iconClass": "fi-ss-ship" },
+    { "nome": "Procura das Cartas", "url": "https://www.escolagames.com.br/jogos/a-procura-das-cartas", "iconClass": "fi-ss-search-alt" },
+    { "nome": "Rainbow Obby", "url": "https://poki.com.br/g/rainbow-obby", "iconClass": "fi-ss-rainbow" }
+  ]
+}
